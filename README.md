@@ -64,5 +64,3 @@ Start the Flask server and access the application at `http://localhost:5000`:
 ```bash
 flask run
 ```
-
-This README provides a comprehensive guide to setting up and understanding the LinkedIn Analyzer application, highlighting its features, structure, and setup process for users.
